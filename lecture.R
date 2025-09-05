@@ -1,0 +1,5 @@
+library(tidyverse)
+library("here")
+chicago <- readRDS(here("data", "chicago.rds"))
+dim(chicago)
+str(chicago)

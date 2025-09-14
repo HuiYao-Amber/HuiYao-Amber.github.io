@@ -1,0 +1,46 @@
+---
+title: "Hui Yao"
+image: "HuiYao.jpg"
+links:
+  - label: LinkedIn
+    url: "www.linkedin.com/in/huiyao2002"
+  - label: GitHub
+    url: "https://github.com/HuiYao-Amber"
+  - label: Email
+    url: "hyao21@jh.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Hi! This is Hui Yao!
+
+大家好！我是姚惠！
+
+¡Hola! Soy Hui Yao!
+
+
+## Education
+
+**Johns Hopkins University** | Baltimore, MD
+
+ScM in Biostatistics | August 2025 - Now
+
+**Southern University of Science and Technology** | Shenzhen, China
+
+B.S. in Statistics | September 2020 - June 2025
+
+**University of Notre Dame** | South Bend, IN
+
+Exchange Student | August 2023 - December 2023
+
+## Experience
+
+**Southern University of Science and Technology** | China | Full-time Research Assistant | September 2024 - June 2025
+
+**United Nations** | Ecuador | International Youth Volunteer | January 2024 - July 2024
+
+**Peking University Shenzhen Hospital** | China | Statistician Intern | June 2023 - August 2023
+
+

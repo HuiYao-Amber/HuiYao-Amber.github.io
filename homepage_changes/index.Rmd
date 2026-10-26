@@ -1,0 +1,75 @@
+---
+title: "Hui Yao | Biostatistics · Johns Hopkins University"
+description: "Hui Yao (姚惠) is a biostatistics ScM student at Johns Hopkins University, studying survival analysis, causal inference, and methods for multi-site health data."
+---
+
+## About {#about}
+
+I am an ScM student in Biostatistics at the Johns Hopkins Bloomberg School of Public Health. My research interests center on developing valid, privacy-preserving, and transportable methods for generating causal evidence from fragmented clinical and real-world data.
+
+I work with Dr. Jiayi (Jessie) Tong on survival-data reconstruction and multi-site statistical learning. I also support tuberculosis screening research at the Johns Hopkins School of Medicine. Previously, I worked on wearable and multimodal disease data at Southern University of Science and Technology and served as a United Nations Volunteer with UNFPA in Ecuador.
+
+**Research interests:** survival analysis · causal inference · federated learning · data integration · clinical trials · evidence synthesis.
+
+## Research {#research}
+
+### Kaplan–Meier reconstruction & evidence synthesis
+<p class="meta">October 2025–present · Advisor: Dr. Jiayi Tong</p>
+
+I benchmark methods for reconstructing individual patient data from published Kaplan–Meier curves, examining how reconstruction affects survival estimates and downstream meta-analysis. My simulation study considers proportional hazards, delayed effects, crossing curves, censoring, and digitization error, with evaluation of hazard ratios and restricted mean survival time.
+
+*Manuscript in preparation.*
+
+### Federated dictionary learning
+<p class="meta">August 2026–present · Advisor: Dr. Jiayi Tong</p>
+
+I am investigating shared dictionary representations for clinical prediction and phenotyping across hospitals, with patient-specific sparse coefficients retained locally. The work explores outcome-informed updates and aggregation of local summary statistics to balance representation quality and communication.
+
+### CHASE-TB: tuberculosis screening trial
+<p class="meta">December 2025–present · Johns Hopkins School of Medicine<br>Supervisors: Dr. Emily Kendall & Dr. Joowhan Sung</p>
+
+As a part-time research assistant, I support record linkage, data management, and statistical analysis for a multiple-period crossover trial of facility- and community-based TB screening in Uganda. My work connects screening records with routine health records and treatment registers, using reproducible R workflows to investigate diagnostic outcomes and linkage to care.
+
+### Wearable & multimodal disease data
+<p class="meta">August 2024–June 2025 · Southern University of Science and Technology<br>Supervisor: Prof. Jian Qing Shi</p>
+
+As a full-time research assistant, I integrated wearable gait signals, EEG, cognitive assessments, and clinical information for neurodegenerative-disease screening research. I applied mixture models and semi-supervised learning to study patient heterogeneity and implemented feature extraction and comparative classification analyses.
+
+## Education {#education}
+
+### Johns Hopkins University
+<p class="meta">Baltimore, USA · August 2025–May 2027 (expected)</p>
+
+ScM in Biostatistics, Bloomberg School of Public Health.
+
+### Southern University of Science and Technology
+<p class="meta">Shenzhen, China · September 2020–June 2025</p>
+
+BS in Statistics.
+
+### University of Notre Dame
+<p class="meta">South Bend, USA · Fall 2023</p>
+
+Exchange student; fully funded scholarship.
+
+## Professional experience {#experience}
+
+### United Nations Population Fund (UNFPA)
+<p class="meta">Quito, Ecuador · January–June 2024</p>
+
+United Nations Volunteer, Data Analysis and Research Assistant. I integrated census, administrative, and survey data for small area estimation of cantonal malnutrition rates and developed Python workflows for classifying Spanish-language household labor survey text.
+
+### Peking University Shenzhen Hospital
+<p class="meta">Shenzhen, China · June–August 2023</p>
+
+Assistant to Biostatisticians (internship). I supported clinical studies through data preparation, hypothesis testing, mediation analysis, and structural equation modeling.
+
+## Teaching {#teaching}
+
+- **Statistical Reasoning in Public Health (PH.140.611)** — Teaching Assistant, Johns Hopkins Bloomberg School of Public Health.
+
+## Tools & methods {#skills}
+
+**Tools:** R, Python, Stata, SQL (basic), Git, Quarto / R Markdown, REDCap.
+
+**Methods:** survival analysis, simulation studies, random-effects meta-analysis, mixture models, statistical learning, sparse representation learning, and small area estimation.

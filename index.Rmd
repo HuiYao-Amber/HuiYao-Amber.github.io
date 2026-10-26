@@ -67,7 +67,6 @@ Assistant to Biostatisticians (internship). I supported clinical studies through
 ## Teaching {#teaching}
 
 - **Statistical Reasoning in Public Health (PH.140.611)** — Teaching Assistant, Johns Hopkins Bloomberg School of Public Health.
-- **Time Series Analysis** — Teaching Assistant, Southern University of Science and Technology, September 2024–January 2025.
 
 ## Tools & methods {#skills}
 
